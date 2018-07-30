@@ -15,22 +15,24 @@
   </head>
   
   <body>
-  <nav class="navbar navbar-default">
-  <div class="container-fluid">
-    <div class="navbar-header">
-      <a class="navbar-brand" href="#">TolaView</a>
-    </div>
-    <ul class="nav navbar-nav">
-      <li class="active"><a href="#">Home</a></li>
-      <li><a href="#">Page 1</a></li>
-      <li><a href="#">Page 2</a></li>
-      <li><a href="#">Page 3</a></li>
-    </ul>
-  </div>
-</nav>
+	<div class="container">
+	<nav class="navbar navbar-default">
+	<div class="container-fluid">
+		<div class="navbar-header">
+			<a class="navbar-brand" href="#">TolaView </a>
+		</div>
+			<ul class="nav navbar-nav">
+			  <li class="active"><a href="#">Home</a></li>
+			  <li><a href="#">Personals </a></li>
+			  <li><a href="#">Gym Stuff</a></li>
+			  <li><a href="#">Progress</a></li>
+			</ul>
+	</div>
+	</nav>
+	</div>
   
 	<div class="container">
-	  <img src="http://tolaview.com/Tolaview_Project/imgs/TolaLu.JPG" class="img-circle" alt="Cinque Terre" width="304" height="236"> 
+	  <img src="http://tolaview.com/Tolaview_Project/imgs/TolaLu.JPG" width="304" height="236"> 
 		
 		
 		 <div class="jumbotron">

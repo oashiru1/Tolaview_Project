@@ -22,8 +22,8 @@
 			<a class="navbar-brand" href="#">TolaView </a>
 		</div>
 			<ul class="nav navbar-nav">
-			  <li class="active"><a href="#">Home</a></li>
-			  <li><a href="#">Personals </a></li>
+			  <li class="active"><a href="index.php">Home</a></li>
+			  <li><a href="deadlift.php">Dead.Lifts </a></li>
 			  <li><a href="#">Gym Stuff</a></li>
 			  <li><a href="#">Progress</a></li>
 			</ul>
@@ -43,22 +43,19 @@
 		<div class="row">
 			<div class="col-xs-6 col-md-3">
 				<a href= "#" class="thumbnail">
-					<img id = "dead1" src="imgs/Gym/DL1PIC.PNG" alt="imgs/Gym/DL1.MOV" onclick ="myFunction()">
+					<img id = "dead1" src="imgs/Gym/DL1PIC.PNG" alt="imgs/Gym/DL1.MOV" onclick ="myFunction(this.id)">
 				</a>
-				<button type="button" onclick="myFunction()">Try it</button>
 			</div>
 			
 			<div class="col-xs-6 col-md-3">
 				<a href= "#" class="thumbnail">
-					<img id = "dead" src="imgs/Gym/DL2PIC.PNG" alt="imgs/Gym/DL2.MOV" onclick ="myFunction()">
+					<img id = "dead2" src="imgs/Gym/DL2PIC.PNG"  alt="imgs/Gym/DL2.MOV" onclick ="myFunction(this.id)">
 				</a>
-				<button type="button" onclick="myFunction()">Try it</button>
 			</div>
 			<div class="col-xs-6 col-md-3">
 				<a href= "#" class="thumbnail">
-					<img id = "dead" src="imgs/Gym/DL1PIC.PNG" alt="imgs/Gym/DL3.MOV" onclick ="myFunction()">
+					<img id = "dead3" src="imgs/Gym/DL3PIC.PNG" alt="imgs/Gym/DL3.MOV" onclick ="myFunction(this.id)">
 				</a>
-				<button type="button" onclick="myFunction()">Try it</button>
 			</div>
 		</div>	
 	

@@ -22,8 +22,8 @@
 			<a class="navbar-brand" href="#">TolaView </a>
 		</div>
 			<ul class="nav navbar-nav">
-			  <li class="active"><a href="#">Home</a></li>
-			  <li><a href="#">Personals </a></li>
+			  <li class="active"><a href="index.php">Home</a></li>
+			  <li><a href="deadlift.php">Dead.Lifts </a></li>
 			  <li><a href="#">Gym Stuff</a></li>
 			  <li><a href="#">Progress</a></li>
 			</ul>
@@ -32,7 +32,7 @@
 	</div>
   
 	<div class="container">
-	  <img src="http://tolaview.com/Tolaview_Project/imgs/TolaLu.JPG" width="304" height="236"> 
+	  <!--<img src="http://tolaview.com/Tolaview_Project/imgs/TolaLu.JPG" width="304" -->height="236"> 
 		
 		
 		 <div class="jumbotron">

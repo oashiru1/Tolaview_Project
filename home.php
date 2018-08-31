@@ -13,27 +13,27 @@
 							    <!-- Wrapper for slides -->
 							    <div class="carousel-inner">
 							      <div class="item active">
-							        <img src="imgs\Gym\Magic.JPG" alt="Los Angeles" style="width: auto; height:320px; margin: 0 auto">
+							        <img src="imgs\Babe\Lucy9.JPG" alt="Los Angeles" style="width: auto; height:320px; margin: 0 auto">
 							      </div>
 
 							      <div class="item">
-							        <img src="imgs\Gym\tone.JPG" alt="Chicago" style="width: auto; height:320px; margin: 0 auto">
+							        <img src="imgs\Babe\Lucy4.PNG" alt="Chicago" style="width: auto; height:320px; margin: 0 auto">
 							      </div>
 							    
 							      <div class="item">
-							        <img src="imgs\Progress\Pose1.JPG" alt="New york" style="width: auto; height:320px; margin: 0 auto">
+							        <img src="imgs\Babe\Us3.JPG" alt="New york" style="width: auto; height:320px; margin: 0 auto">
+							      </div>
+
+							      <div class="item">
+							        <img src="imgs\Babe\Av.PNG" alt="New york" style="width: auto; height:320px; margin: 0 auto">
 							      </div>
 
 							      <div class="item">
 							        <img src="imgs\Progress\P1.JPG" alt="New york" style="width: auto; height:320px; margin: 0 auto">
 							      </div>
 
-							      <div class="item">
-							        <img src="imgs\Progress\P2.JPG" alt="New york" style="width: auto; height:320px; margin: 0 auto">
-							      </div>
-
 							       <div class="item">
-							        <img src="imgs\Progress\P3.JPG" alt="New york" style="width: auto; height:320px; margin: 0 auto">
+							        <img src="imgs\Babe\Us5.JPG"  alt="New york" style="width: auto; height:320px; margin: 0 auto">
 							      </div>
 							    </div>
 
